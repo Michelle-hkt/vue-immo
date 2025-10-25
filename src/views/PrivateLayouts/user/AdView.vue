@@ -3,9 +3,7 @@
 </script>
 
 <template>
- 
-
-  <RouterView />
+ page announcement View
 </template>
 
 <style scoped>

@@ -3,9 +3,7 @@
 </script>
 
 <template>
- 
-
-  <RouterView />
+ page favorite  View
 </template>
 
 <style scoped>
